@@ -13,4 +13,4 @@ Here is an overview of Vim's history:
   2002 Mar 24 - Vim 6.1:  Big Fixes
   2005 Oct 15 - Vim 6.4:  Updates for Perl, Python and Ruby support
   2006 May 7  - Vim 7.0:  Spell checking, code completion, tab pages (multiple viewports/window layouts), current line and column highlighting, undo branches, and more
-2022 May 28 - Vim 9.0:  Vim 9 script
+  2022 May 28 - Vim 9.0:  Vim 9 script
